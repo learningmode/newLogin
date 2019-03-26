@@ -1,0 +1,9 @@
+.backgroundWrapper{
+	background: url("../img/formBackground.jpg")no-repeat;
+	background-size: cover;
+}
+
+.form-container{
+	border: 1px solid #fff;
+	padding: 20px;
+}
